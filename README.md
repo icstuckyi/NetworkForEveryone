@@ -16,9 +16,9 @@
 ## 스터디 진도표
 장 | 레슨 | 날짜 | 담당자
 -- | -- | -- | --
-1장. 네트워크 첫걸음 | LESSON 00. 네트워크   입문 강의 개강! | 2023. 1. 25 <br/>수요일 | keiwin49
-  | LESSON 01.   네트워크의 구조 |   |  
-  | LESSON 02. 정보의   양을 나타내는 단위 |   |  
+1장. 네트워크 첫걸음 | [LESSON 00. 네트워크   입문 강의 개강!](https://github.com/icstuckyi/NetworkForEveryone/issues/2#issue-1552973413) | 2023. 1. 25 <br/>수요일 | keiwin49
+  | [LESSON 01.   네트워크의 구조](https://github.com/icstuckyi/NetworkForEveryone/issues/2#issuecomment-1400230190) |   |  
+  | [LESSON 02. 정보의   양을 나타내는 단위](https://github.com/icstuckyi/NetworkForEveryone/issues/2#issuecomment-1400230339) |   |  
   | LESSON 03. 랜과 왠 | 2023. 1. 27 <br/>금요일 | icstuckyi
   | LESSON 04. 가정에서   하는 랜 구성 |   |  
   | LESSON 05. 회사에서   하는 랜 구성 |   |  
