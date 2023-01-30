@@ -22,9 +22,9 @@
   | [LESSON 03. 랜과 왠](https://github.com/icstuckyi/NetworkForEveryone/issues/2#issuecomment-1404889785) | 2023. 1. 27 <br/>금요일 | icstuckyi
   | [LESSON 04. 가정에서   하는 랜 구성](https://github.com/icstuckyi/NetworkForEveryone/issues/2#issuecomment-1404894322) |   |  
   | [LESSON 05. 회사에서   하는 랜 구성](https://github.com/icstuckyi/NetworkForEveryone/issues/2#issuecomment-1404906111) |   |  
-2장. 네트워크의 <br/>기본 규칙 | LESSON 06.   네트워크의 규칙 | 2023. 1. 30 <br/>월요일 | keiwin49
-  | LESSON 07. OSI   모델과 TCP/IP 모델 |   |  
-  | LESSON 08. 캡슐화와   역캡슐화 |   |  
+2장. 네트워크의 <br/>기본 규칙 | [LESSON 06.   네트워크의 규칙](https://github.com/icstuckyi/NetworkForEveryone/issues/3#issue-1561249097) | 2023. 1. 30 <br/>월요일 | keiwin49
+  | [LESSON 07. OSI   모델과 TCP/IP 모델](https://github.com/icstuckyi/NetworkForEveryone/issues/3#issuecomment-1407660515) |   |  
+  | [LESSON 08. 캡슐화와   역캡슐화](https://github.com/icstuckyi/NetworkForEveryone/issues/3#issuecomment-1407660605) |   |  
 3장. 물리 계층: <br/>데이터를 전기 신호로 <br/>변환하기 | LESSON 09. 물리   계층의 역할과 랜 카드의 구조 | 2023. 1. 31 <br/>화요일 | icstuckyi
   | LESSON 10. 케이블의   종류와 구조 |   |  
   | LESSON 11. 리피터와   허브의 구조 |   |  
