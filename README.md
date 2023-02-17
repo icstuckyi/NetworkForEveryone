@@ -29,8 +29,8 @@
   | [LESSON 10. 케이블의   종류와 구조](https://github.com/icstuckyi/NetworkForEveryone/issues/4#issuecomment-1431139636) |   |  
   | [LESSON 11. 리피터와   허브의 구조](https://github.com/icstuckyi/NetworkForEveryone/issues/4#issuecomment-1431140268) |   |  
 4장. 데이터 링크 계층: <br/>랜에서 데이터 전송하기 | [LESSON 12. 데이터   링크 계층의 역할과 이더넷](https://github.com/icstuckyi/NetworkForEveryone/issues/5#issue-1587383279) | 2023. 2. 16 <br/>목요일 | keiwin49
-  | [LESSON 13. MAC   주소의 구조](https://github.com/icstuckyi/NetworkForEveryone/issues/5#issuecomment-1432827051) |   |  
-  | [LESSON 14. 스위치의   구조](https://github.com/icstuckyi/NetworkForEveryone/issues/5#issuecomment-1434456339) | 2023. 2. 17 <br/>금요일 | icstuckyi
+  | [LESSON 13. MAC   주소의 구조](https://github.com/icstuckyi/NetworkForEveryone/issues/5#issuecomment-1432827051) |   |   
+  || [LESSON 14. 스위치의   구조](https://github.com/icstuckyi/NetworkForEveryone/issues/5#issuecomment-1434456339) | 2023. 2. 17 <br/>금요일 | icstuckyi
   | [LESSON 15. 데이터가   케이블에서 충돌하지 않는 구조](https://github.com/icstuckyi/NetworkForEveryone/issues/5#issuecomment-1434457105) |   |  
   | [LESSON 16. 이더넷의   종류와 특징](https://github.com/icstuckyi/NetworkForEveryone/issues/5#issuecomment-1434457449) |   |  
 5장. 네트워크 계층: <br/>목적지에 <br/>데이터 전달하기 | LESSON 17. 네트워크   계층의 역할 | 2023. 2. 3 <br/>금요일 | keiwin49
