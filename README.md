@@ -33,12 +33,12 @@
   || [LESSON 14. 스위치의   구조](https://github.com/icstuckyi/NetworkForEveryone/issues/5#issuecomment-1434456339) | 2023. 2. 17 <br/>금요일 | icstuckyi
   | [LESSON 15. 데이터가   케이블에서 충돌하지 않는 구조](https://github.com/icstuckyi/NetworkForEveryone/issues/5#issuecomment-1434457105) |   |  
   | [LESSON 16. 이더넷의   종류와 특징](https://github.com/icstuckyi/NetworkForEveryone/issues/5#issuecomment-1434457449) |   |  
-5장. 네트워크 계층: <br/>목적지에 <br/>데이터 전달하기 | LESSON 17. 네트워크   계층의 역할 | 2023. 2. 3 <br/>금요일 | keiwin49
-  | LESSON 18. IP   주소의 구조 |   |  
-  | LESSON 19. IP   주소의 클래스 구조 | 2023. 2. 6 <br/>월요일 | icstuckyi
-  | LESSON 20. 네트워크   주소와 브로드캐스트 주소의 구조 |   |  
-  | LESSON 21. 서브넷의   구조 | 2023. 2. 7 <br/>화요일 | keiwin49
-  | LESSON 22. 라우터의   구조 |   |  
+5장. 네트워크 계층: <br/>목적지에 <br/>데이터 전달하기 | [LESSON 17. 네트워크   계층의 역할](https://github.com/icstuckyi/NetworkForEveryone/issues/6#issue-1591694170) | 2023. 2. 20 <br/>월요일 | keiwin49
+  | [LESSON 18. IP   주소의 구조](https://github.com/icstuckyi/NetworkForEveryone/issues/6#issuecomment-1436827885) |   |  
+  || [LESSON 19. IP   주소의 클래스 구조](https://github.com/icstuckyi/NetworkForEveryone/issues/6#issuecomment-1438302165) | 2023. 2. 21 <br/>화요일 | icstuckyi
+  | [LESSON 20. 네트워크   주소와 브로드캐스트 주소의 구조](https://github.com/icstuckyi/NetworkForEveryone/issues/6#issuecomment-1438302654) |   |  
+  || [LESSON 21. 서브넷의   구조](https://github.com/icstuckyi/NetworkForEveryone/issues/6#issuecomment-1439819713) | 2023. 2. 22 <br/>수요일 | keiwin49
+  | [LESSON 22. 라우터의   구조](https://github.com/icstuckyi/NetworkForEveryone/issues/6#issuecomment-1439819997) |   |  
 6장. 전송 계층: <br/>신뢰할   수 있는 <br/>데이터 전송하기 | LESSON 23. 전송   계층의 역할 | 2023. 2. 8 <br/>수요일 | icstuckyi
   | LESSON 24. TCP의   구조 |   |  
   | LESSON 25. 일련번호와 확인 응답 번호의 구조 | 2023. 2. 9 <br/>목요일 | keiwin49
