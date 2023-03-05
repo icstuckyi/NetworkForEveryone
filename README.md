@@ -41,7 +41,7 @@
   | [LESSON 22. 라우터의   구조](https://github.com/icstuckyi/NetworkForEveryone/issues/6#issuecomment-1439819997) |   |  
 6장. 전송 계층: <br/>신뢰할   수 있는 <br/>데이터 전송하기 | [LESSON 23. 전송   계층의 역할](https://github.com/icstuckyi/NetworkForEveryone/issues/7#issue-1596755084) | 2023. 2. 23 <br/>목요일 | icstuckyi
   | [LESSON 24. TCP의   구조](https://github.com/icstuckyi/NetworkForEveryone/issues/7#issuecomment-1441664215) |   |  
-  | [LESSON 25. 일련번호와 확인 응답 번호의 구조](https://github.com/icstuckyi/NetworkForEveryone/issues/7#issuecomment-1443624915) | 2023. 2. 24 <br/>금요일 | keiwin49
+ | | [LESSON 25. 일련번호와 확인 응답 번호의 구조](https://github.com/icstuckyi/NetworkForEveryone/issues/7#issuecomment-1443624915) | 2023. 2. 24 <br/>금요일 | keiwin49
   | [LESSON 26. 포트   번호의 구조](https://github.com/icstuckyi/NetworkForEveryone/issues/7#issuecomment-1443625555) |   |  
   | [LESSON 27. UDP의   구조](https://github.com/icstuckyi/NetworkForEveryone/issues/7#issuecomment-1443625974) |   |  
 7장. 응용 계층: <br/>애플리케이션에 <br/>데이터 전송하기 | LESSON 28. 응용   계층의 역할 | 2023. 2. 10 <br/>금요일 | icstuckyi
