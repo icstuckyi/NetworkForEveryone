@@ -44,8 +44,8 @@
  | | [LESSON 25. 일련번호와 확인 응답 번호의 구조](https://github.com/icstuckyi/NetworkForEveryone/issues/7#issuecomment-1443624915) | 2023. 2. 24 <br/>금요일 | keiwin49
   | [LESSON 26. 포트   번호의 구조](https://github.com/icstuckyi/NetworkForEveryone/issues/7#issuecomment-1443625555) |   |  
   | [LESSON 27. UDP의   구조](https://github.com/icstuckyi/NetworkForEveryone/issues/7#issuecomment-1443625974) |   |  
-7장. 응용 계층: <br/>애플리케이션에 <br/>데이터 전송하기 | LESSON 28. 응용   계층의 역할 | 2023. 2. 10 <br/>금요일 | icstuckyi
-  | LESSON 29. 웹   서버의 구조(웹 사이트 접속) |   |  
+7장. 응용 계층: <br/>애플리케이션에 <br/>데이터 전송하기 | [LESSON 28. 응용   계층의 역할](https://github.com/icstuckyi/NetworkForEveryone/issues/8#issue-1613233326) | 2023. 3. 07 <br/>화요일 | icstuckyi
+  | [LESSON 29. 웹   서버의 구조(웹 사이트 접속)](https://github.com/icstuckyi/NetworkForEveryone/issues/8#issuecomment-1457989121) |   |  
   | LESSON 30. DNS   서버의 구조(이름 해석) | 2023. 2. 13 <br/>월요일 | keiwin49
   | LESSON 31. 메일   서버의 구조(SMTP와 POP3) |   |  
 8장. 네트워크의 전체 <br/>흐름 살펴보기 | LESSON 32. 랜   카드에서의 데이터 전달과 처리 | 2023. 2. 14 <br/>화요일 | icstuckyi
