@@ -46,9 +46,9 @@
   | [LESSON 27. UDP의   구조](https://github.com/icstuckyi/NetworkForEveryone/issues/7#issuecomment-1443625974) |   |  
 7장. 응용 계층: <br/>애플리케이션에 <br/>데이터 전송하기 | [LESSON 28. 응용   계층의 역할](https://github.com/icstuckyi/NetworkForEveryone/issues/8#issue-1613233326) | 2023. 3. 07 <br/>화요일 | icstuckyi
   | [LESSON 29. 웹   서버의 구조(웹 사이트 접속)](https://github.com/icstuckyi/NetworkForEveryone/issues/8#issuecomment-1457989121) |   |  
-  | LESSON 30. DNS   서버의 구조(이름 해석) | 2023. 2. 13 <br/>월요일 | keiwin49
-  | LESSON 31. 메일   서버의 구조(SMTP와 POP3) |   |  
-8장. 네트워크의 전체 <br/>흐름 살펴보기 | LESSON 32. 랜   카드에서의 데이터 전달과 처리 | 2023. 2. 14 <br/>화요일 | icstuckyi
+  | | [LESSON 30. DNS   서버의 구조(이름 해석)](https://github.com/icstuckyi/NetworkForEveryone/issues/8#issuecomment-1463202465) | 2023. 3. 10 <br/>금요일 | icstuckyi
+  | [LESSON 31. 메일   서버의 구조(SMTP와 POP3)](https://github.com/icstuckyi/NetworkForEveryone/issues/8#issuecomment-1463203210) |   |  
+8장. 네트워크의 전체 <br/>흐름 살펴보기 | LESSON 32. 랜   카드에서의 데이터 전달과 처리 | 2023. 3. 12 <br/>일요일 | icstuckyi
   | LESSON 33. 스위치와   라우터에서의 데이터 전달과 처리 |   |  
   | LESSON 34. 웹   서버에서의 데이터 전달과 처리 |   |  
 9장. 무선 랜 이해하기 | LESSON 35. 무선   랜의 구조 | 2023. 2. 15 <br/>수요일 | keiwin49
