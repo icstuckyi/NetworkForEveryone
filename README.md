@@ -48,8 +48,8 @@
   | [LESSON 29. 웹   서버의 구조(웹 사이트 접속)](https://github.com/icstuckyi/NetworkForEveryone/issues/8#issuecomment-1457989121) |   |  
   | | [LESSON 30. DNS   서버의 구조(이름 해석)](https://github.com/icstuckyi/NetworkForEveryone/issues/8#issuecomment-1463202465) | 2023. 3. 10 <br/>금요일 | icstuckyi
   | [LESSON 31. 메일   서버의 구조(SMTP와 POP3)](https://github.com/icstuckyi/NetworkForEveryone/issues/8#issuecomment-1463203210) |   |  
-8장. 네트워크의 전체 <br/>흐름 살펴보기 | LESSON 32. 랜   카드에서의 데이터 전달과 처리 | 2023. 3. 12 <br/>일요일 | icstuckyi
-  | LESSON 33. 스위치와   라우터에서의 데이터 전달과 처리 |   |  
-  | LESSON 34. 웹   서버에서의 데이터 전달과 처리 |   |  
+8장. 네트워크의 전체 <br/>흐름 살펴보기 | [LESSON 32. 랜   카드에서의 데이터 전달과 처리](https://github.com/icstuckyi/NetworkForEveryone/issues/9#issue-1620244642) | 2023. 3. 12 <br/>일요일 | icstuckyi
+  | [LESSON 33. 스위치와   라우터에서의 데이터 전달과 처리](https://github.com/icstuckyi/NetworkForEveryone/issues/9#issuecomment-1465099218) |   |  
+  | [LESSON 34. 웹   서버에서의 데이터 전달과 처리](https://github.com/icstuckyi/NetworkForEveryone/issues/9#issuecomment-1465099316) |   |  
 9장. 무선 랜 이해하기 | LESSON 35. 무선   랜의 구조 | 2023. 2. 15 <br/>수요일 | keiwin49
   | LESSON 36. SSID의 구조 |   |  
