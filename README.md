@@ -5,7 +5,7 @@
 [@icstuckyi](https://github.com/icstuckyi), [@keiwin49](https://github.com/keiwin49)
 
 ## 스터디 일정
-- 진행기간 : 23.01.25 - 23.02.24(예정)
+- 진행기간 : 23.01.25 - 23.03.14
 - 진행시간 : 평일 저녁 9시 - 10시
 
 ## 스터디 규칙
@@ -51,5 +51,5 @@
 8장. 네트워크의 전체 <br/>흐름 살펴보기 | [LESSON 32. 랜   카드에서의 데이터 전달과 처리](https://github.com/icstuckyi/NetworkForEveryone/issues/9#issue-1620244642) | 2023. 3. 12 <br/>일요일 | icstuckyi
   | [LESSON 33. 스위치와   라우터에서의 데이터 전달과 처리](https://github.com/icstuckyi/NetworkForEveryone/issues/9#issuecomment-1465099218) |   |  
   | [LESSON 34. 웹   서버에서의 데이터 전달과 처리](https://github.com/icstuckyi/NetworkForEveryone/issues/9#issuecomment-1465099316) |   |  
-9장. 무선 랜 이해하기 | LESSON 35. 무선   랜의 구조 | 2023. 2. 15 <br/>수요일 | keiwin49
-  | LESSON 36. SSID의 구조 |   |  
+9장. 무선 랜 이해하기 | [LESSON 35. 무선   랜의 구조](https://github.com/icstuckyi/NetworkForEveryone/issues/10#issue-1623258957) | 2023. 3. 14 <br/>화요일 | icstuckyi
+  | [LESSON 36. SSID의 구조](https://github.com/icstuckyi/NetworkForEveryone/issues/10#issuecomment-1467938072) |   |  
